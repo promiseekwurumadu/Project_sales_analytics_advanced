@@ -124,6 +124,7 @@ Dashboard features:
 The dashboard clearly links customer behaviour to revenue impact.
 
 ## Project Structure
+``` text 
 Project_sales_analytics_advanced/
 ├── data/
 │   ├── raw/
@@ -138,7 +139,7 @@ Project_sales_analytics_advanced/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ## Tools Used
 
 Python (pandas, matplotlib)
