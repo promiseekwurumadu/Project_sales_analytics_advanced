@@ -1,5 +1,14 @@
 # project_advanced_automated_elt_pipeline
 
+## Project Path
+
+This repository represents the advanced stage of a progressive sales analytics series:
+
+[Project 0 — Sales Analytics (Beginner)](https://github.com/promiseekwurumadu/project_a_sales_beginners_analytics.git) →  
+[Project 1 — Intermediate Star Schema & ELT](https://github.com/promiseekwurumadu/project_intermediate_star_schema_elt.git) →  
+**Project 2 (this repo)**
+
+
 Automated sales analytics pipeline using Python, PostgreSQL, and Prefect.
 Online Retail Customer Segmentation (RFM Analysis)
 ## Project Overview
