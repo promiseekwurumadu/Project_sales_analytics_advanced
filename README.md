@@ -161,7 +161,7 @@ Use exported files in data/processed/
 Open rfm_dashboard.pbix in Power BI
 
 
-## Project 3 — Customer Retention & Cohort Analysis
+## Project Cont'd— Customer Retention & Cohort Analysis
 
 This project extends the customer segmentation work by analysing retention and churn
 using cohort analysis.
