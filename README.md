@@ -170,7 +170,7 @@ using cohort analysis.
 - Power BI was used to visualise retention using a cohort heatmap
 - The analysis identifies early lifecycle churn and long-term retention patterns
 
-See: `project_3_cohort_retention/`
+See: `project_cohort_retention/`
 
 
 ## Author
