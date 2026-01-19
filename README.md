@@ -160,13 +160,18 @@ Use exported files in data/processed/
 
 Open rfm_dashboard.pbix in Power BI
 
-## Next Steps
 
-Cohort analysis for retention over time
+## Project 3 — Customer Retention & Cohort Analysis
 
-Customer lifetime value (CLV) estimation
+This project extends the customer segmentation work by analysing retention and churn
+using cohort analysis.
 
-Campaign simulation by RFM segment
+- SQL (PostgreSQL) was used to construct cohort and retention views
+- Power BI was used to visualise retention using a cohort heatmap
+- The analysis identifies early lifecycle churn and long-term retention patterns
+
+See: `project_3_cohort_retention/`
+
 
 ## Author
 
